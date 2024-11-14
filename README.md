@@ -1,4 +1,4 @@
-# Avocado-Data-Analysis
+# Avocado-Analysis-Python
 
 ## Project Overview
 This project analyzes the seasonal trends in avocado prices and sales volumes across various regions, with a particular focus on conventional avocados in California. Using data visualization and trend analysis, the project explores the relationship between supply (volume) and demand (price), highlighting seasonal effects on avocado markets.
